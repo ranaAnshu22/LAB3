@@ -1,0 +1,32 @@
+[
+    {
+      "model": "Galaxy S21",
+      "brand": "Samsung",
+      "price": 699
+    },
+    {
+      "model": "iPhone 13",
+      "brand": "Apple",
+      "price": 799
+    },
+    {
+      "model": "Mi 11",
+      "brand": "Xiaomi",
+      "price": 599
+    },
+    {
+      "model": "Galaxy Z Fold3",
+      "brand": "Samsung",
+      "price": 999
+    },
+    {
+      "model": "iPhone 13 Pro",
+      "brand": "Apple",
+      "price": 899
+    },
+    {
+      "model": "Redmi Note 10",
+      "brand": "Xiaomi",
+      "price": 749
+    }
+  ]
